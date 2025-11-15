@@ -4,7 +4,6 @@ Nombre: Nicolás Ortega Fernández
 
 Curso: 1DAW
 
-Email: nicolas.ortega4@alumno.iesluisvives.org
+Email: nicolas.ortega@alumno.iesluisvives.org
 
 Nick GitHub: @nicolasorteg
-
